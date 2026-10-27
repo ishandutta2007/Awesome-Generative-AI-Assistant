@@ -10,7 +10,7 @@
 
   <p align="center">
     <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-    <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-Assistant?style=flat-square&logo=github&color=38bdf8" alt="GitHub Stars"/></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-Assistant?style=flat-square&logo=github&color=38bdf8" alt="GitHub_Stars"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Assistant/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Generative-AI-Assistant?style=flat-square&logo=github&color=818cf8" alt="GitHub Forks"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Assistant/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Generative-AI-Assistant?style=flat-square&color=c084fc" alt="License"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Assistant/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -78,7 +78,7 @@ The table below catalogs premier commercial SaaS solutions for enterprise AI cop
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-Sovereign, community-driven, and self-hosted open-source AI assistants, chat platforms, and agent orchestration engines. Entries are sorted in descending order by **GitHub Stars Count**, with live social star badges linking directly to each project's stargazers community.
+Sovereign, community-driven, and self-hosted open-source AI assistants, chat platforms, and agent orchestration engines. Entries are sorted in descending order by **GitHub_Stars_Count**, with live social Stars_Badges linking directly to each project's stargazers community.
 
 - **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
   *Leading Open-Source LLM App Development Platform &amp; Agentic Workflow Orchestrator (Apache-2.0 / Self-Hosted)*  
